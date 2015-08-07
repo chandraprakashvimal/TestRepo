@@ -1,2 +1,2 @@
 # TestRepo
-Test Repositiry
+Test Repository
